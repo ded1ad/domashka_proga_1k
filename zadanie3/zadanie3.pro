@@ -3,7 +3,7 @@ QT -= gui
 
 CONFIG += c++11
 
-TARGET = task3
+TARGET = zadanie3
 CONFIG += console
 CONFIG -= app_bundle
 
